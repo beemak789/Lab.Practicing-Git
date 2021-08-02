@@ -1,1 +1,2 @@
-This repo is for leanring git
+This repo is for learning git
+This is the second change committed*
